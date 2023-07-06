@@ -1,1 +1,18 @@
 /* Write your CSS here! */
+body{
+    background-color: black;
+    margin: 8px;
+    display: block;
+}
+h1{
+    color: cadetblue;
+}
+h2{
+    color: cadetblue;
+}
+p{
+    color:cadetblue;
+}
+#mainHeading{
+    color: red;
+}
