@@ -1,1 +1,32 @@
 /* Write your CSS here! */
+body{
+    background-color: black;
+    margin: 8px;
+    display: block;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+header{
+    color:cadetblue;
+}
+h2{
+    color: cadetblue;
+}
+p{
+    color:cadetblue;
+}
+img{
+    margin-left: 200px;
+    max-width: 75%;
+    max-height: 50%
+    }
+#mainHeading{
+    color: red;
+}
+.funParagraph{
+    color: green;
+}
+#footer{
+    color:cadetblue;   
+    margin: 80px;
+}
