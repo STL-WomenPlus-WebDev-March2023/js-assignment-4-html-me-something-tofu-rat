@@ -15,6 +15,11 @@ h2{
 p{
     color:cadetblue;
 }
+img{
+    margin-left: 200px;
+    max-width: 75%;
+    max-height: 50%
+    }
 #mainHeading{
     color: red;
 }
@@ -22,6 +27,6 @@ p{
     color: green;
 }
 #footer{
-    color:cadetblue   
-
+    color:cadetblue;   
+    margin: 80px;
 }
